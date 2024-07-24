@@ -16,7 +16,7 @@
 
 <section style="font-family: 'JetBrains Mono'">
 
-<h1 style="font-size: 2rem; color: #1d9875;">👋 Hola soy Jorge Mendez Ortega 👨‍💻</h1>
+<h1 style="font-size: 2rem; color:red;">👋 Hola soy Jorge Mendez Ortega 👨‍💻</h1>
 
 <p style="font-size:1rem; text-align: justify; font-weight: 500; line-height: 22px;">
      Con más de 15 años de experiencia, he contribuido al desarrollo de sitios web, WebApps y la migración de procesos hacia entornos web. He participado activamente en la planificación, configuración e implementación de arquitecturas, bases de datos y codificación en diversos proyectos.
