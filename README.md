@@ -1,6 +1,83 @@
-![Linkedin Page](./assets/hero.jpg)
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+    .wrapper {
+        width: 100%;
+        font-family: "JetBrains Mono", monospace;
+    }
+    .wrapper h1{
+        font-size: 2rem;
+        color: #1d9875;
+    }
+    .wrapper p {
+        font-size:1rem;
+        text-align: justify;
+        font-weight: 500;
+        line-height: 22px;
+    }
+    .wrapper div {
+        display: flex;
+        align-items: center;
+        h2 {
+             font-size: 1.5rem;
+             padding-right: 0.5rem;
+             font-weight: 700;
+             color: #1d9875;
+             display:flex;
+             gap: 5px;
+             flex-shrink: 0;
+        }
+        span {
+            height: 2px;
+            background: #188163;
+            flex-grow: 1;
+        }
+        .write { 
+             text-align: center;
+        }
+    }
+    .link {
+        font-size:1rem;
+        font-weight: 600;
+    }
+    .badges {
+        text-align: center;
+        padding-top:20px;
+    }
+</style>
 
+<img width="1280" alt="Perfil:Jorge Mendez Ortega" src="./assets/hero.jpg" />
 
+<section class="badges">
+
+![Static Badge](https://img.shields.io/badge/facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=FFFFFF&link=https://www.facebook.com/JorgeMendezOrtega12/)
+![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&link=https://github.com/konami12)
+![Static Badge](https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/orcajmz/)
+![Static Badge](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jorge-mendez-ortega/)
+![Static Badge](https://img.shields.io/badge/platzi-98ca3f?style=for-the-badge&logo=platzi&logoColor=FFFFFF&link=https://platzi.com/p/konami12jorge/)
+![Static Badge](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&link=https://x.com/Konami12Jorge)
+![Static Badge](https://img.shields.io/badge/freecodecamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=FFFFFF&link=https://www.freecodecamp.org/konami12)
+</section>
+
+<section class="wrapper">
+
+<h1>👋 Hola soy Jorge Mendez Ortega 👨‍💻</h1>
+
+<p>
+     Con más de 15 años de experiencia, he contribuido al desarrollo de sitios web, WebApps y la migración de procesos hacia entornos web. He participado activamente en la planificación, configuración e implementación de arquitecturas, bases de datos y codificación en diversos proyectos.
+</p>
+
+<p>
+    Me apasiona el aprendizaje constante, lo cual me permitió la redacción de diversas publicaciones sobre temas de programación, esto me dirigió a coordinar pequeños talleres los cuales se compartían con el equipo con el propósito de fomentar el intercambio de conocimientos y el desarrollo conjunto de habilidades.
+</p>
+</section>
+
+<section class="wrapper">
+ <div>
+  <h2><label>📐</label> TECHNOLOGY STACK</h2>
+  <span></span>
+ </div>
+</section>
+<section class="badges">
 
 ![Static Badge](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=FFFFFF&link=https://www.w3.org/html/logo/)
 ![Static Badge](https://img.shields.io/badge/chai-a30701?style=for-the-badge&logo=chai&logoColor=FFFFFF&link=https://github.com/simple-icons/simple-icons/issues/4983#issuecomment-796736373)
@@ -37,7 +114,6 @@
 ![Static Badge](https://img.shields.io/badge/babel-f9dc3e?style=for-the-badge&logo=babel&logoColor=FFFFFF&link=https://github.com/babel/website/blob/93330158b6ecca1ab88d3be8dbf661f5c2da6c76/website/static/img/babel-black.svg)
 ![Static Badge](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=FFFFFF&link=https://circleci.com/press)
 ![Static Badge](https://img.shields.io/badge/conventional%20commits-fe5196?style=for-the-badge&logo=conventionalcommits&logoColor=FFFFFF&link=https://www.conventionalcommits.org)
-![Static Badge](https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=FFFFFF&link=https://dev.to)
 ![Static Badge](https://img.shields.io/badge/eslint-4b32c3?style=for-the-badge&logo=eslint&logoColor=FFFFFF&link=https://eslint.org)
 ![Static Badge](https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=FFFFFF&link=https://www.figma.com/using-the-figma-brand/)
 ![Static Badge](https://img.shields.io/badge/github%20actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&link=https://github.com/features/actions)
@@ -46,7 +122,6 @@
 ![Static Badge](https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=FFFFFF&link=https://graphql.org/brand)
 ![Static Badge](https://img.shields.io/badge/gulp-cf4647?style=for-the-badge&logo=gulp&logoColor=FFFFFF&link=https://github.com/gulpjs/artwork/blob/4e14158817ac88e9a5c02b3b307e6f630fe222fb/gulp-white-text.svg)
 ![Static Badge](https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=FFFFFF&link=https://atlassian.design/resources/logo-library)
-![Static Badge](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF&link=https://medium.design/logos-and-brand-guidelines-f1a01a733592)
 ![Static Badge](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=FFFFFF&link=https://github.com/automattic/mongoose/blob/7971a4dbd55888f0b005e65b06024109af8352f7/docs/images/mongoose.svg)
 ![Static Badge](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=FFFFFF&link=https://openai.com)
 ![Static Badge](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&link=https://wiki.postgresql.org/wiki/logo)
@@ -54,14 +129,30 @@
 ![Static Badge](https://img.shields.io/badge/relay-f26b00?style=for-the-badge&logo=relay&logoColor=FFFFFF&link=https://relay.dev)
 ![Static Badge](https://img.shields.io/badge/tailwind%20css-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&link=https://tailwindcss.com/brand)
 
-# My Project
+</section>
+<section class="wrapper">
+ <div>
+  <h2><label>📉</label> MY GITHUB STATS</h2>
+  <span></span>
+ </div>
 
-![](https://www.codewars.com/users/konami12/badges/large)
 
 ![](https://github-readme-stats.vercel.app/api?username=konami12&show_icons=true&count_private=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konami12&hide_progress=true&theme=gruvbox)
-
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=konami12&theme=gruvbox&hide_border=true&locale=es&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
+</section>
+<section class="wrapper">
+ <div>
+  <h2><label>⭐</label>MAJOR PUBLICATIONS</h2>
+  <span></span>
+ </div>
+</section>
+
+
+|![Static Badge](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF&link=https://medium.com/@jmz12) | ![Static Badge](https://img.shields.io/badge/dev.to-007399?style=for-the-badge&logo=devdotto&logoColor=FFFFFF&link=https://dev.to/jmz12)|
+|-|-|
+| - <a class="link" alt="De POO a SOLID explicado con Pokémon: El paradigma de POO" href="https://medium.com/@jmz12/javascript-el-paradigma-de-poo-b04d19b6322c?sk=c50468920fce1d7c99bf9d4835b600f2">El paradigma de POO</a> | - <a class="link" alt="Patrones de diseño en JavaScript" href="https://dev.to/jmz12/patrones-de-diseno-en-javascript-4jh4">Patrones de diseño en JavaScript</a> |
+| - <a class="link" alt="De POO a SOLID explicado con Pokémon: Los cuatro principios de POO" href="https://medium.com/@jmz12/javascript-los-4-principios-de-poo-9b48c436ae69">Los cuatro principios de POO</a> | - <a class="link" alt="Recomendaciones para generar un buen commit" href="https://dev.to/jmz12/recomendaciones-para-generar-un-buen-commit-544i">Recomendaciones para generar un buen commit</a> |
+| - <a class="link" alt="De POO a SOLID explicado con Pokémon: Los cinco principios de SOLID" href="https://medium.com/p/a4f738bec325">Los cinco principios de SOLID</a> | - <a class="link" alt="Expresiones Regulares" href="https://dev.to/jmz12/expresiones-regulares-bd4">Expresiones Regulares</a> |
+
+
