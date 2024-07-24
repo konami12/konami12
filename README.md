@@ -1,53 +1,9 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
-    .wrapper {
-        width: 100%;
-        font-family: "JetBrains Mono", monospace;
-    }
-    .wrapper h1{
-        font-size: 2rem;
-        color: #1d9875;
-    }
-    .wrapper p {
-        font-size:1rem;
-        text-align: justify;
-        font-weight: 500;
-        line-height: 22px;
-    }
-    .wrapper div {
-        display: flex;
-        align-items: center;
-        h2 {
-             font-size: 1.5rem;
-             padding-right: 0.5rem;
-             font-weight: 700;
-             color: #1d9875;
-             display:flex;
-             gap: 5px;
-             flex-shrink: 0;
-        }
-        span {
-            height: 2px;
-            background: #188163;
-            flex-grow: 1;
-        }
-        .write { 
-             text-align: center;
-        }
-    }
-    .link {
-        font-size:1rem;
-        font-weight: 600;
-    }
-    .badges {
-        text-align: center;
-        padding-top:20px;
-    }
-</style>
+
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
 
 <img width="1280" alt="Perfil:Jorge Mendez Ortega" src="./assets/hero.jpg" />
 
-<section class="badges">
+<section style="text-align: center; padding-top:20px;">
 
 ![Static Badge](https://img.shields.io/badge/facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=FFFFFF&link=https://www.facebook.com/JorgeMendezOrtega12/)
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&link=https://github.com/konami12)
@@ -58,26 +14,27 @@
 ![Static Badge](https://img.shields.io/badge/freecodecamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=FFFFFF&link=https://www.freecodecamp.org/konami12)
 </section>
 
-<section class="wrapper">
+<section style="font-family: 'JetBrains Mono'">
 
-<h1>👋 Hola soy Jorge Mendez Ortega 👨‍💻</h1>
+<h1 style="font-size: 2rem; color: #1d9875;">👋 Hola soy Jorge Mendez Ortega 👨‍💻</h1>
 
-<p>
+<p style="font-size:1rem; text-align: justify; font-weight: 500; line-height: 22px;">
      Con más de 15 años de experiencia, he contribuido al desarrollo de sitios web, WebApps y la migración de procesos hacia entornos web. He participado activamente en la planificación, configuración e implementación de arquitecturas, bases de datos y codificación en diversos proyectos.
 </p>
 
-<p>
+<p style="font-size:1rem; text-align: justify; font-weight: 500; line-height: 22px;">
     Me apasiona el aprendizaje constante, lo cual me permitió la redacción de diversas publicaciones sobre temas de programación, esto me dirigió a coordinar pequeños talleres los cuales se compartían con el equipo con el propósito de fomentar el intercambio de conocimientos y el desarrollo conjunto de habilidades.
 </p>
 </section>
 
-<section class="wrapper">
- <div>
-  <h2><label>📐</label> TECHNOLOGY STACK</h2>
-  <span></span>
+<section style="font-family: 'JetBrains Mono'">
+ <div style="display: flex;align-items: center;">
+  <h2 style="font-size: 1.5rem;padding-right: 0.5rem;font-weight: 700;color: #1d9875;display:flex;gap: 5px;flex-shrink: 0;">
+<label>📐</label> TECHNOLOGY STACK</h2>
+  <span style="height: 2px;background: #188163;flex-grow: 1;"></span>
  </div>
 </section>
-<section class="badges">
+<section style="text-align: center; padding-top:20px;">
 
 ![Static Badge](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=FFFFFF&link=https://www.w3.org/html/logo/)
 ![Static Badge](https://img.shields.io/badge/chai-a30701?style=for-the-badge&logo=chai&logoColor=FFFFFF&link=https://github.com/simple-icons/simple-icons/issues/4983#issuecomment-796736373)
@@ -130,21 +87,21 @@
 ![Static Badge](https://img.shields.io/badge/tailwind%20css-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&link=https://tailwindcss.com/brand)
 
 </section>
-<section class="wrapper">
- <div>
-  <h2><label>📉</label> MY GITHUB STATS</h2>
-  <span></span>
+<section style="font-family: 'JetBrains Mono'">
+ <div style ="display: flex;align-items: center;">
+  <h2 style="font-size: 1.5rem;padding-right: 0.5rem;font-weight: 700;color: #1d9875;display:flex;gap: 5px;flex-shrink: 0;"><label>📉</label> MY GITHUB STATS</h2>
+  <span style="height: 2px;background: #188163;flex-grow: 1;"></span>
  </div>
 
 
-![](https://github-readme-stats.vercel.app/api?username=konami12&show_icons=true&count_private=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=konami12&show_icons=true&count_private=true&theme=gruvbox&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=konami12&theme=gruvbox&hide_border=true&locale=es&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 </section>
-<section class="wrapper">
- <div>
-  <h2><label>⭐</label>MAJOR PUBLICATIONS</h2>
-  <span></span>
+<section style="font-family: 'JetBrains Mono'">
+ <div style ="display: flex;align-items: center;">
+  <h2 style="font-size: 1.5rem;padding-right: 0.5rem;font-weight: 700;color: #1d9875;display:flex;gap: 5px;flex-shrink: 0;"><label>⭐</label>MAJOR PUBLICATIONS</h2>
+  <span style="height: 2px;background: #188163;flex-grow: 1;"></span>
  </div>
 </section>
 
