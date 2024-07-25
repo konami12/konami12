@@ -1,9 +1,7 @@
-
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
-
-<img width="1280" alt="Perfil:Jorge Mendez Ortega" src="./assets/hero.jpg" />
-
-<section style="text-align: center; padding-top:20px;">
+<div align="center">
+    <img alt="Perfil:Jorge Mendez Ortega" src="./assets/hero.jpg" align="center" style="width: 100%" />
+</div>  
+<div align="center">
 
 ![Static Badge](https://img.shields.io/badge/facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=FFFFFF&link=https://www.facebook.com/JorgeMendezOrtega12/)
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&link=https://github.com/konami12)
@@ -12,29 +10,25 @@
 ![Static Badge](https://img.shields.io/badge/platzi-98ca3f?style=for-the-badge&logo=platzi&logoColor=FFFFFF&link=https://platzi.com/p/konami12jorge/)
 ![Static Badge](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&link=https://x.com/Konami12Jorge)
 ![Static Badge](https://img.shields.io/badge/freecodecamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=FFFFFF&link=https://www.freecodecamp.org/konami12)
-</section>
+
+</div>
 
 <section style="font-family: 'JetBrains Mono'">
 
-<h1 style="font-size: 2rem; color:red;">👋 Hola soy Jorge Mendez Ortega 👨‍💻</h1>
+<h1 style="font-size: 2rem;">👋 Hola soy Jorge Mendez Ortega 👨‍💻</h1>
 
-<p style="font-size:1rem; text-align: justify; font-weight: 500; line-height: 22px;">
+<p align="justify" style="font-size:1rem; text-align: justify; font-weight: 500; line-height: 22px;">
      Con más de 15 años de experiencia, he contribuido al desarrollo de sitios web, WebApps y la migración de procesos hacia entornos web. He participado activamente en la planificación, configuración e implementación de arquitecturas, bases de datos y codificación en diversos proyectos.
 </p>
 
-<p style="font-size:1rem; text-align: justify; font-weight: 500; line-height: 22px;">
+<p align="justify"  style="font-size:1rem; text-align: justify; font-weight: 500; line-height: 22px;">
     Me apasiona el aprendizaje constante, lo cual me permitió la redacción de diversas publicaciones sobre temas de programación, esto me dirigió a coordinar pequeños talleres los cuales se compartían con el equipo con el propósito de fomentar el intercambio de conocimientos y el desarrollo conjunto de habilidades.
 </p>
 </section>
+<br/>
+<br/>
 
-<section style="font-family: 'JetBrains Mono'">
- <div style="display: flex;align-items: center;">
-  <h2 style="font-size: 1.5rem;padding-right: 0.5rem;font-weight: 700;color: #1d9875;display:flex;gap: 5px;flex-shrink: 0;">
-<label>📐</label> TECHNOLOGY STACK</h2>
-  <span style="height: 2px;background: #188163;flex-grow: 1;"></span>
- </div>
-</section>
-<section style="text-align: center; padding-top:20px;">
+<section align="center">
 
 ![Static Badge](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=FFFFFF&link=https://www.w3.org/html/logo/)
 ![Static Badge](https://img.shields.io/badge/chai-a30701?style=for-the-badge&logo=chai&logoColor=FFFFFF&link=https://github.com/simple-icons/simple-icons/issues/4983#issuecomment-796736373)
@@ -87,17 +81,21 @@
 ![Static Badge](https://img.shields.io/badge/tailwind%20css-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&link=https://tailwindcss.com/brand)
 
 </section>
+
 <section style="font-family: 'JetBrains Mono'">
  <div style ="display: flex;align-items: center;">
   <h2 style="font-size: 1.5rem;padding-right: 0.5rem;font-weight: 700;color: #1d9875;display:flex;gap: 5px;flex-shrink: 0;"><label>📉</label> MY GITHUB STATS</h2>
   <span style="height: 2px;background: #188163;flex-grow: 1;"></span>
  </div>
 
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=konami12&show_icons=true&count_private=true&theme=gruvbox&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=konami12&theme=gruvbox&hide_border=true&locale=es&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+</div>
 </section>
+
 <section style="font-family: 'JetBrains Mono'">
  <div style ="display: flex;align-items: center;">
   <h2 style="font-size: 1.5rem;padding-right: 0.5rem;font-weight: 700;color: #1d9875;display:flex;gap: 5px;flex-shrink: 0;"><label>⭐</label>MAJOR PUBLICATIONS</h2>
@@ -105,6 +103,7 @@
  </div>
 </section>
 
+<div align="center">
 
 |![Static Badge](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF&link=https://medium.com/@jmz12) | ![Static Badge](https://img.shields.io/badge/dev.to-007399?style=for-the-badge&logo=devdotto&logoColor=FFFFFF&link=https://dev.to/jmz12)|
 |-|-|
@@ -112,4 +111,17 @@
 | - <a class="link" alt="De POO a SOLID explicado con Pokémon: Los cuatro principios de POO" href="https://medium.com/@jmz12/javascript-los-4-principios-de-poo-9b48c436ae69">Los cuatro principios de POO</a> | - <a class="link" alt="Recomendaciones para generar un buen commit" href="https://dev.to/jmz12/recomendaciones-para-generar-un-buen-commit-544i">Recomendaciones para generar un buen commit</a> |
 | - <a class="link" alt="De POO a SOLID explicado con Pokémon: Los cinco principios de SOLID" href="https://medium.com/p/a4f738bec325">Los cinco principios de SOLID</a> | - <a class="link" alt="Expresiones Regulares" href="https://dev.to/jmz12/expresiones-regulares-bd4">Expresiones Regulares</a> |
 
+</div>
 
+<br/>
+<br/>
+
+
+
+
+
+<div align="center">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/jorgemendefy)
+
+</div>
