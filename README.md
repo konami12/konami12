@@ -27,8 +27,10 @@
 </p>
 </section>
 <br/>
-<br/>
-
+  <h2 style="font-size: 1.5rem;padding-right: 0.5rem;font-weight: 700;color: #1d9875;display:flex;gap: 5px;flex-shrink: 0;">
+<label>📐</label> TECHNOLOGY STACK</h2>
+  <span style="height: 2px;background: #188163;flex-grow: 1;"></span>
+ </div>
 <section align="center">
 
 ![Static Badge](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=FFFFFF&link=https://www.w3.org/html/logo/)
@@ -82,13 +84,12 @@
 ![Static Badge](https://img.shields.io/badge/tailwind%20css-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&link=https://tailwindcss.com/brand)
 
 </section>
-
+<br/>
 <section style="font-family: 'JetBrains Mono'">
  <div style ="display: flex;align-items: center;">
   <h2 style="font-size: 1.5rem;padding-right: 0.5rem;font-weight: 700;color: #1d9875;display:flex;gap: 5px;flex-shrink: 0;"><label>📉</label> MY GITHUB STATS</h2>
   <span style="height: 2px;background: #188163;flex-grow: 1;"></span>
  </div>
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=konami12&show_icons=true&count_private=true&theme=gruvbox&hide_border=true)
@@ -115,10 +116,6 @@
 </div>
 
 <br/>
-<br/>
-
-
-
 
 
 <div align="center">
