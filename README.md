@@ -1,6 +1,7 @@
 <div align="center">
     <img alt="Perfil:Jorge Mendez Ortega" src="./assets/hero.jpg" align="center" style="width: 100%" />
 </div>  
+<br/><br/>
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=FFFFFF&link=https://www.facebook.com/JorgeMendezOrtega12/)
@@ -12,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/freecodecamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=FFFFFF&link=https://www.freecodecamp.org/konami12)
 
 </div>
-
+<br/><br/>
 <section style="font-family: 'JetBrains Mono'">
 
 <h1 style="font-size: 2rem;">👋 Hola soy Jorge Mendez Ortega 👨‍💻</h1>
